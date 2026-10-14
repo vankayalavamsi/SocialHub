@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+  <rect width="800" height="450" fill="#111827"/>
+  <text x="400" y="175" font-size="110" text-anchor="middle">⭐</text>
+  <text x="400" y="255" font-family="Arial, sans-serif" font-size="44" font-weight="bold" fill="#ffffff" text-anchor="middle">10,000 Stars</text>
+  <text x="400" y="298" font-family="Arial, sans-serif" font-size="20" fill="#9ca3af" text-anchor="middle">GitHub Milestone Unlocked</text>
+  <circle cx="150" cy="90" r="6" fill="#f59e0b"/>
+  <circle cx="650" cy="110" r="8" fill="#818cf8"/>
+  <circle cx="120" cy="340" r="8" fill="#e1306c"/>
+  <circle cx="680" cy="330" r="6" fill="#10b981"/>
+  <circle cx="400" cy="55" r="5" fill="#0ea5e9"/>
+</svg>
